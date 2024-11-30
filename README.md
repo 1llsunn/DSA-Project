@@ -1,1 +1,1 @@
-Hoffman Encoding Using Different Data Structures
+Huffman Encoding Using Different Data Structures
